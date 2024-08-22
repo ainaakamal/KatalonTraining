@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Day 1 - Cura Healthcare (Record Mode)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b91dd760-ccd5-4eec-b66a-4ac4b0c5a45f</testCaseGuid>
+</TestCaseEntity>
